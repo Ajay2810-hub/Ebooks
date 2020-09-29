@@ -1,5 +1,5 @@
-sem II
-Fifth edition
+Sem-II
+5th edition
 FYCS
-Yashvant P. Kanetkar
-Let Us C
+Yashvant Kanetkar
+C Programming
