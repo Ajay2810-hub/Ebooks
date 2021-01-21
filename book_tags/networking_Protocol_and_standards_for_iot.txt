@@ -1,4 +1,0 @@
-IOT
-TYCS
-Reference Book
-Networking

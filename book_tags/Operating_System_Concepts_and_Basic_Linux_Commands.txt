@@ -1,7 +1,0 @@
-Operating System
-SYCS
-OS
-Shital Ghate
-Sem-III
-Linux
-System Concepts

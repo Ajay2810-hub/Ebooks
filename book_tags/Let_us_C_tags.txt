@@ -1,5 +1,0 @@
-Sem-II
-5th edition
-FYCS
-Yashvant Kanetkar
-C Programming

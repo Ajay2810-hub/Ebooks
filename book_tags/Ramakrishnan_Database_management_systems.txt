@@ -1,5 +1,0 @@
-Database
-SYCS
-Sem-III
-Ramakrishnan
-Database Management

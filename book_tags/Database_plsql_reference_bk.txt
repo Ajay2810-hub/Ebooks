@@ -1,5 +1,0 @@
-PL/SQl
-Reference Book
-Database
-SYCS
-Sem-III

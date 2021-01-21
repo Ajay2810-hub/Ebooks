@@ -1,4 +1,0 @@
-Database
-System Concepts
-Sem-III
-SYCS

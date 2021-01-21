@@ -1,6 +1,0 @@
-TYCS
-IOT
-Internet Of Things
-Daniel Minoli
-IPv6
-MIPv6

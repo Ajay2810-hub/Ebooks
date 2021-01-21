@@ -1,5 +1,0 @@
-Sem-III
-OS
-Operating System
-System Concepts
-SYCS
